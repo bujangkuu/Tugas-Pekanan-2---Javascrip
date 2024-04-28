@@ -1,0 +1,11 @@
+{
+    "name": "tugas-pekanan-2-javascript",
+    "version": "1.0.0",
+    "description": "Tugas-2 aplikasi akar pangkat dua bilangan genap sanbercode",
+    "main": "soal1.js",
+    "scripts": {
+        "test": "node file_name"
+    },
+    "author": "Salman Arrasuli Jamil",
+    "license": "ISC"
+}
