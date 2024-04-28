@@ -1,4 +1,5 @@
-Tugas Pekanan 2 - Javascript
+Tugas Pekanan 2 - Javascript.
+
 Soal 1:
 - Ini adalah tugas untuk menghitung akar pangkat dua dari bilangan genap.
 - Input -> $ node soal1.js
