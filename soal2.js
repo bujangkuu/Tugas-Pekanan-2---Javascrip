@@ -1,4 +1,4 @@
-//Tugas-2 aplikasi mengecek total quantity 
+//Tugas-2 (soal 2) aplikasi mengecek total quantity 
 
 let productBin = {
     //Mengecek total quantity  dari bebarapa storageId untuk productCode FBR00040101 
