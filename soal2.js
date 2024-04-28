@@ -1,4 +1,4 @@
-//Tugas-2 aplikasi akar pangkat dua bilangan genap sanbercode
+//Tugas-2 aplikasi mengecek total quantity 
 
 let productBin = {
     //Mengecek total quantity  dari bebarapa storageId untuk productCode FBR00040101 
