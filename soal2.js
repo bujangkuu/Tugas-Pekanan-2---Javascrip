@@ -1,5 +1,7 @@
-//Mengecek total quantity  dari bebarapa storageId untuk productCode FBR00040101 
+//Tugas-2 aplikasi akar pangkat dua bilangan genap sanbercode
+
 let productBin = {
+    //Mengecek total quantity  dari bebarapa storageId untuk productCode FBR00040101 
     "requestId": null,
     "data": [{
             "id": 100000057465,
@@ -44,5 +46,5 @@ for (let i = 0; i < productBin.data.length; i++) {
         totalQuantity += product.quantity;
     }
 }
-
+//total  storageId untuk productCode FBR00040101 = 157
 console.log("Total quantity for productCode", productCode, "is", totalQuantity);

@@ -1,5 +1,5 @@
-const readline = require('readline');
 //Tugas-2 aplikasi akar pangkat dua bilangan genap sanbercode
+const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
